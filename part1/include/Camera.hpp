@@ -1,12 +1,4 @@
-/** @file Camera.hpp
- *  @brief Sets up an OpenGL camera.
- *  
- *  Sets up an OpenGL Camera. The camera is what
- *  sets up our 'view' matrix.
- *
- *  @author Mike
- *  @bug No known bugs.
- */
+
 #ifndef CAMERA_HPP
 #define CAMERA_HPP
 

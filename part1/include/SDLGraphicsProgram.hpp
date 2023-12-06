@@ -1,11 +1,4 @@
-/** @file SDLGraphicsProgram.hpp
- *  @brief SDL Class used to setup input and setup of OpenGL.
- *  
- *  This class is used for the initialization of SDL.
- *
- *  @author Mike
- *  @bug No known bugs.
- */
+
 #ifndef SDLGRAPHICSPROGRAM_HPP
 #define SDLGRAPHICSPROGRAM_HPP
 
