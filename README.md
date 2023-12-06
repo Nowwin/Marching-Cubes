@@ -4,7 +4,7 @@
 This project demonstrates the rendering of metaballs using the marching cubes algorithm, combined with a skybox environment. The rendered metaballs exhibit reflections, adding to the visual realism. This guide provides an overview of the project structure, setup, and usage.
 
 ## Demo
-<img src="./media/demo.gif" width="400px" alt="Demo">
+<img src="./part1/media/demo.gif" width="400px" alt="Demo">
 
 ## Prerequisites
 - OpenGL 4.1 or higher
